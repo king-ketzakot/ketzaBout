@@ -591,8 +591,8 @@ Hola *${pushname}*
 ‣ Número de grupos: *${_registered.length}*
 ‣ Número de chats: *${totalchat.length}*
 ‣ Numero del Dueño wa.me/+549357665-1536 
-
 ‣ GRUPO Del bot  https://chat.whatsapp.com/Ku7ugjSULqXIu8z8kA3UdN
+‣ NO LLAMADAS AL BOT, NO SPAM NI BINARIOS ¿OK? ATT:ketzakot
 
 ┏━━━━━━━━━━━━━━━━━━━━
 ┃───〘 😼𝗞𝗘𝗧𝗭𝗔 𝗕𝗢𝗧💨  〙───
