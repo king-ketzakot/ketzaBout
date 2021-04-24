@@ -552,7 +552,7 @@ quoted: mek
 
 //--Auto respon 2
 switch(is) {
-  case 'hola':
+  case '.menu':
 buf = fs.readFileSync(`./temp/audio/onichan.mp3`)
 Lxa.sendMessage(from, buf, audio, {
   mimetype: 'audio/mp4', quoted: mek, ptt: true
@@ -581,13 +581,13 @@ case '?':
   if (!isRegister) return reply(mess.only.daftarB)
   uptime = process.uptime()
   const Menu = {
-text: `😼𝗞𝗘𝗧𝗭𝗔 𝗕𝗢𝗧💨 
+text: `😼𝗕𝗢𝗧 K💨 
 
 Hola *${pushname}* 
 
 〘 *BOT* 〙
 ‣ Prefijo:「 ${prefix} 」
-‣ Yo soy: 😼𝗞𝗘𝗧𝗭𝗔 𝗕𝗢𝗧💨 
+‣ Yo soy: 😼𝗕𝗢𝗧 K💨 
 ‣ Tiempo encencido: *${kyun(uptime)}*
 ‣ Modo: *ON*
 ‣ Grupo:  *${groupName}*
