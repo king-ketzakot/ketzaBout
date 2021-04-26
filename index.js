@@ -270,6 +270,7 @@ async function starts() {
 Bienvenid@ a 
 *${mdata.subject}*
 Hola soy el bot de 🇲🇹OFC malta🇲🇹
+Aqui te dejo las insignias tienes 10 minutos o ban 
 ──────────────── 
 ```❕❕COLOCA insignias obligatorias para no ser eliminado❗❗```
 
